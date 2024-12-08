@@ -1,0 +1,5 @@
+- **Portable Operating System Interface**
+- standardised API for **maintaining compatibility bw OSs**
+- *POSIX certified* -> macOS, Solaris
+- *POSIX-compliant (by practice)* -> Linux, Android, FreeBSD, Contiki
+- *POSIX for WIndows* -> Cygwin (fake Linux environment) for translation from POSIX to Windows

@@ -1,0 +1,5 @@
+- [?] How many bits is one word?
+	- 32 bits
+- [?] Why do we have different modes of CPU operations?
+	- [[CPU Modes of Operation#Why have different modes/]]
+	- 

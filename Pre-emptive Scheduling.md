@@ -1,0 +1,5 @@
+- allows a process to run for some time
+- sets a **clock interrupt** to occur at the end of the interval
+- the interrupt **stops** the running process and gives the CPU to the scheduler.
+- preemptive scheduling -> not possible w/o hardware clocks
+- interrupts can be disabled

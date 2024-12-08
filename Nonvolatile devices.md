@@ -1,0 +1,3 @@
+- **Hard Drives:** Use spinning platters for data storage.
+- **Solid State Drives (SSDs):** Faster and more reliable, based on flash memory.
+- The OS handles disk block allocation and file abstraction.

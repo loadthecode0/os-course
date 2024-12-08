@@ -1,0 +1,11 @@
+- instruction pipelining
+- superscalar CPU -> in modern architectures
+- Multithreading
+	- pseudo parallel
+	- exploits idle time
+	- CPU is able to hold the state of two execution threads and switch between them super fast
+	- E.g: one thread is fetching data from memory (slow), CPU switches to other thread while the first is waiting.
+- Multiple processors (4, 8, 16, ...)
+	- True parallelism
+	- Graphics Processing Unit (GPU) -> extreme parallelism 
+		- (but is very basic operations)
